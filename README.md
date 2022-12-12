@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm a MSc Computer Engineering student at Instituto Superior Técnico in Lisbon, Portugal, specializing in Information Systems and Data Science. I'm passionate for fullstack software development and machine learning. This page is a collection of some projects I've developed over the last few years! Thank you for visiting :)!
+
 
 <!--
 **alvaroqsaldanha/alvaroqsaldanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
