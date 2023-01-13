@@ -1,6 +1,6 @@
 ### Hello! 👋👋
 
-I'm a MSc Computer Engineering student at Instituto Superior Técnico in Lisbon, Portugal, specializing in Data Science. I'm passionate for full-stack software development and machine learning, and always look for opportunities to further develop my skillset in these areas. This page is a collection of some projects I've developed over the last few years! Thank you for visiting.
+I'm a MSc Computer Engineering student at Instituto Superior Técnico in Lisbon, Portugal, specializing in Data Science. I'm passionate about full-stack software development and machine learning, and always look for opportunities to further develop my skillset in these areas. This page is a collection of some projects I've developed over the last few years! Thank you for visiting.
 
 🌐 [Website](https://alvarosaldanha.pythonanywhere.com/) 👥 [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-saldanha-b39990207/)
 
