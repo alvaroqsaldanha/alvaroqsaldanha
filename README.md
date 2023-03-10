@@ -1,6 +1,14 @@
 ### Hello! 👋👋👋
 
-I'm a MSc Computer Science and Engineering student at Instituto Superior Técnico in Lisbon, Portugal, specializing in data science. I'm passionate about full-stack software development and machine learning, and always look for opportunities to further develop my skillset in these areas. This page is a collection of projects I've developed over the last few years! Thank you for visiting :)
+I'm a MSc Computer Science and Engineering student at Instituto Superior Técnico in Lisbon, Portugal, specializing in data science. I'm passionate about full-stack software development and machine learning, and always look for opportunities to further develop my skillset in these areas. This page is a collection of projects I've developed over the last few years! 
+
+I am currently keeping busy with:
+
+💻 A pre-thesis project titled "Detection and Classification of Acoustic Scenes and Events with Deep Neural Networks". <br>
+🗾 Japanese language classes, towards a N5 level. <br>
+🔋 An incoming 4-month long software engineering internship at Unit4.
+
+Thank you for visiting :)
 
 🌐 [Website](https://www.alvarosaldanha.dev/) 👥 [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-saldanha-b39990207/)
 
