@@ -6,7 +6,7 @@ I am currently keeping busy with:
 
 💻 A pre-thesis project titled "Detection and Classification of Acoustic Scenes and Events in Urban Soundscapes with Deep Neural Networks". <br>
 🗾 Japanese language classes, towards a N5 level. <br>
-🔋 My MSc's final courses, on Reinforcement Learning and Database Management.
+🔋 An incoming software engineering internship at Unit4, from April to July 2023.
 
 Thank you for visiting :)
 
