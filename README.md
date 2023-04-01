@@ -1,12 +1,12 @@
 ### Hello! 👋👋👋
 
-I'm a MSc Computer Science and Engineering student at Instituto Superior Técnico in Lisbon, Portugal, specializing in data science. I'm passionate about full-stack software development and machine learning, and always look for opportunities to further develop my skillset in these areas. This page is a collection of projects I've developed over the last few years! 
+I'm a MSc Computer Science and Engineering student at Instituto Superior Técnico, specializing in Data Science, and a Software Engineer intern at Unit4. I'm passionate about full-stack software development and machine learning, and always look for opportunities to further develop my skillset in these areas. This page is a collection of projects I've developed over the last few years! 
 
 I am currently keeping busy with:
 
 💻 A pre-thesis project titled "Detection and Classification of Acoustic Scenes and Events in Urban Soundscapes with Deep Neural Networks". <br>
+🔋 A software engineering internship at Unit4, from April to July 2023, using ReactJS, .NET, and Azure DevOps.
 🗾 Japanese language classes, towards a N5 level. <br>
-🔋 An incoming software engineering internship at Unit4, from April to July 2023.
 
 Thank you for visiting :)
 
