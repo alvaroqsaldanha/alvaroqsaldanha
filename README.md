@@ -5,7 +5,7 @@ I'm a MSc Computer Science and Engineering student at Instituto Superior Técnic
 I am currently keeping busy with:
 
 💻 A pre-thesis project titled "Detection and Classification of Acoustic Scenes and Events in Urban Soundscapes with Deep Neural Networks". <br>
-🔋 A software engineering internship at Unit4, from April to July 2023, using ReactJS, .NET, and Azure DevOps.
+🔋 A software engineering internship at Unit4, from April to July 2023, using ReactJS, .NET, and Azure DevOps. <br>
 🗾 Japanese language classes, towards a N5 level. <br>
 
 Thank you for visiting :)
