@@ -6,7 +6,7 @@ I am currently keeping busy with:
 
 💻 A pre-thesis project about Polyphonic Sound Event Detection for Urban Soundscapes (inspired by the [DCASE](https://dcase.community/) challenge). I plan to study federated learning, knowledge distillation, and multiple DNN architectures applied to this domain. <br>
 🔋 A software engineering internship at Unit4, from April to July 2023, using ReactJS, .NET, and Azure DevOps. <br>
-🗾 Japanese language classes, towards a N5 level. <br>
+🗾 Japanese language classes, towards an N5 level. <br>
 
 Thank you for visiting :)
 
