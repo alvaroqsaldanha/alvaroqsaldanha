@@ -10,8 +10,7 @@ Currently, I am working on pre-thesis project about Polyphonic Sound Event Detec
   <img src="https://github.com/alvaroqsaldanha/alvaroqsaldanha/blob/main/giphy.gif" width="200" height="200"/>
 </p>
 
-<br>
-Thank you for visiting :) 💻🔋 🗾 
+Thank you for visiting :) 💻🔋 🗾 <br>
 
 🌐 [Website](https://www.alvarosaldanha.dev/) 👥 [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-saldanha-b39990207/)
 
