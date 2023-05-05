@@ -6,7 +6,7 @@ I'm a MSc Computer Science and Engineering student at Instituto Superior Técnic
 
   &nbsp; I am currently keeping busy with:
 
-  &nbsp; 💻 A pre-thesis project about Polyphonic Sound Event Detection for Urban Soundscapes (inspired by the [DCASE](https://dcase.community/) &nbsp; &nbsp;&nbsp; challenge). I plan to  study federated learning, knowledge distillation, and multiple DNN architectures applied to &nbsp; &nbsp; &nbsp; this domain. <br>
+  &nbsp; 💻 A pre-thesis project about Polyphonic Sound Event Detection for Urban Soundscapes (inspired by &nbsp; &nbsp;&nbsp; the [DCASE](https://dcase.community/)  challenge). I plan to  study federated learning, knowledge distillation, and multiple DNN architectures applied to &nbsp; &nbsp; &nbsp; this domain. <br>
   &nbsp; 🔋 A software engineering internship at Unit4, from April to July 2023, using ReactJS, .NET, and Azure DevOps. <br>
   &nbsp; 🗾 Studying Japanese, Reinforcement Learning, and NLP. <br>
 
