@@ -10,7 +10,7 @@ Currently, I am living in Tokyo, Japan, as part of the Vulcanus in Japan 2023/20
   <img src="https://github.com/alvaroqsaldanha/alvaroqsaldanha/blob/main/giphy.gif" width="200" height="200"/>
 </p>
 
-Thank you for visiting :) 💻🔋 🗾 <br>
+Thank you for visiting :) 💻🔋🗾 <br>
 
 🌐 [Website](https://www.alvarosaldanha.dev/) 
 
