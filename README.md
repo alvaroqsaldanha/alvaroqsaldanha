@@ -13,4 +13,5 @@ Currently, I am living in Tokyo, Japan, as part of the Vulcanus in Japan 2023/20
 Thank you for visiting :) 💻🔋🗾 <br>
 
 🌐 [Website](https://www.alvarosaldanha.dev/) 
+📪 [LinkedIn](https://www.linkedin.com/in/alvaro-saldanha/) 
 
