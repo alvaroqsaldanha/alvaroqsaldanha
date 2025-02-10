@@ -11,7 +11,9 @@ Currently I am working on my MSc Thesis, on Self-supervised Learning and Explain
   <img src="https://github.com/alvaroqsaldanha/alvaroqsaldanha/blob/main/giphy.gif" width="200" height="200"/>
 </p>
 
-Thank you for visiting :) 💻🔋🗾 <br>
+Thank you for visiting :) 🔋 <br>
 
 📪 [LinkedIn](https://www.linkedin.com/in/alvaro-saldanha/) 
+💻 [Website](https://www.alvarosaldanha.dev/)
+
 
